@@ -1,1 +1,19 @@
 /* add CSS class and element and selectors here */
+body{
+  background-color: lightblue
+  font-size: 150%;
+}
+h3{
+  font-size: 300px;
+}
+div{
+  
+  
+  
+}
+html{
+  color: green;
+}
+html{
+  text-shadow: 300px;
+}
